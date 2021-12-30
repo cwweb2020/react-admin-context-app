@@ -1,0 +1,3 @@
+rutas
+creo carpeta rutas
+dentro creo index 
